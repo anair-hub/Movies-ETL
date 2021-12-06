@@ -8,11 +8,11 @@ Module 8
 
    Deliverable involves reading from three data files and creating three separate DataFrames.
 
-![deliverable1a](Resources/delievrable1a.PNG)
+![deliverable1a](Resources/deliverable1a.PNG)
 
-![deliverable1b](Resources/delievrable1b.PNG)
+![deliverable1b](Resources/deliverable1b.PNG)
 
-![deliverable1c](Resources/delievrable1c.PNG)
+![deliverable1c](Resources/deliverable1c.PNG)
 
 ## Deliverable 2: Extract and Transform the Wikipedia Data
  
@@ -46,4 +46,5 @@ Module 8
 
 ![deliverable4e](Resources/deliverable4e.PNG)
 
-![deliverable5a](Resources/deliverable.PN5aG)
+![deliverable5a](Resources/deliverable5a.PNG)
+
